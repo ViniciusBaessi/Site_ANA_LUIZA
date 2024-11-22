@@ -1,2 +1,2 @@
-# Site_ANA_LUIZA
-TCC
+# Site-TCC
+Repositório para armazenar o site
